@@ -1,7 +1,4 @@
 # Summer Internship 2023 Report
 
 :bowtie:
-
-link: 
-
-[report](profile/Object_Detection_Guide.pdf)
+**[Link to Project Report](profile/Object_Detection_Guide.pdf)**
