@@ -1,5 +1,7 @@
-# .github
+# Summer internship 2023 Report
 
-This is visible at the organization site
+:bowtie:
 
-[report](Object_Detection_Guide.pdf)
+link: 
+
+[report](profile/Object_Detection_Guide.pdf)
