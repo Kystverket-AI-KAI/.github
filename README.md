@@ -2,4 +2,4 @@
 
 This is visible at the organization site
 
-[report](report.pdf)
+[report](Object_Detection_Guide.pdf)
