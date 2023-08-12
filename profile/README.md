@@ -2,4 +2,4 @@
 
 🚢🏠🤖
 
-**[Link to Project Report](profile/Project report.pdf)**
+**[Link to Project Report](profile/Project_report.pdf)**
