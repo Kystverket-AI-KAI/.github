@@ -2,4 +2,4 @@
 
 🚢🏠🤖
 
-**[Link to Project Report](profile/Object_Detection_Guide.pdf)**
+**[Link to Project Report](profile/Project report.pdf)**
