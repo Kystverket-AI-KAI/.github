@@ -1,4 +1,4 @@
-# Summer Internship 2023 Report
+# Summer Internship 2023
 
 🚢🏠🤖
 
